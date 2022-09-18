@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+@font-face {
+	font-family: "99-occupy";
+	src: url("../fonts/99-occupy.woff") format("woff"), url("../fonts/99-occupy.woff2") format("woff2");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "heinrichscript";
+	src: url("../fonts/heinrichscript.woff") format("woff"), url("../fonts/heinrichscript.woff2") format("woff2");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "decima";
+	src: url("../fonts/DecimaMonoX.woff") format("woff"), url("../fonts/DecimaMonoX.woff2") format("woff2");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "decima";
+	src: url("../fonts/DecimaMonoX-LightItalic.woff") format("woff"), url("../fonts/DecimaMonoX-LightItalic.woff2") format("woff2");
+	font-display: swap;
+	font-weight: 300;
+	font-style: italic;
+}
